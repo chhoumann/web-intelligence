@@ -1,0 +1,49 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Self Study 3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "This self study concludes our first \"miniproject\" on crawling and search. The tasks for this self study are:\n",
+    "- modify/extend the inverted index you constructed in the previous self study to contain for all postings the term frequencies (if your documents are just the titles of the web pages, you will see very few term frequencies larger than 1, but do not worry about that).\n",
+    "- calculate the idf values for all terms, and also include them in your index (cf. slide 3.20 for a schematic view)\n",
+    "- implement ranked retrieval as described on slides 3.19 and 3.20 for the ntc.bnc similarity metric "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
